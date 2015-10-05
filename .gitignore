@@ -1,3 +1,5 @@
 ASF/
 config/
 asf.h
+*exe
+sin_data.txt
