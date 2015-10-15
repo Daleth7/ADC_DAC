@@ -15,9 +15,6 @@
 #define BOOLEAN__     UINT8
 #define TRUE__        1
 #define FALSE__       0
-
-    // Short macro functions for inlining common expressions
-#define IS_NULL(P) (P == NULL)
     /**********   End type aliasing   **********/
 
     /**********   Start function prototypes   **********/
